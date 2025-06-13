@@ -6,4 +6,4 @@ L'application repose sur un backend Flask avec un modèle d’IA entraîné pour
 
 🎯 Objectif : Contribuer à la digitalisation de l’agriculture en Tunisie grâce à l’IA mobile.
 
-# 🔧 Code et documentation à venir très prochainement. Ce dépôt est en cours de finalisation.
+🔧 Code et documentation à venir très prochainement. Ce dépôt est en cours de finalisation.
